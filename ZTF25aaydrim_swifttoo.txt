@@ -1,0 +1,13 @@
+ToO page: https://www.swift.psu.edu/toop/request.php
+ZTF25aaydrim
+237.5309005 (J2000)
+19.1049375 (J2000)
+
+Immediate Objective: We wish to search for X-ray emission to confirm the afterglow nature of this source.
+
+Exposure time: 5000ks
+
+Science Justification: 29.3d ago, ZTF discovered a new optical transient. LT images obtained within the past hour showed rapid fading and confirmed a red SED consistent with synchrotron emission. Therefore, this is a candidate for a relativistic afterglow, similar to other such events we have found with ZTF data. We wish to search for accompanying X-ray emission, expected to be luminous if this is truly a relativistic explosion like a GRB. There is no obvious coincident host in deep (r>24 mag) imaging with LegacySurvey, also consistent with a cosmological origin.
+
+Exposure Time Justification: From a compilation of X-ray afterglows in the literature (1), assuming a redshift of z=1, a typical luminosity at this time would be 10^-13 -- 10^-14 erg/s/cm2. We understand that 1E-14 is challenging for XRT, so are requesting 5 ks for now. (1) https://ui.adsabs.harvard.edu/abs/2019arXiv190507929T/abstract
+
