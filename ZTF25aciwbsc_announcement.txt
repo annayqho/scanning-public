@@ -1,0 +1,14 @@
+The Zwicky Transient Facility (ZTF) reports the discovery of ZTF25aciwbsc, a rapidly fading red transient located at
+11h32m57.46s (J2000)
+47d29m44.62s (J2000)
+and detected as part of the (SURVEY???).
+
+The source was discovered on UT 2025-12-06T09:17:23.997 at r=nan mag
+
+The red color and lack of stellar counterpart or bright host galaxy motivated us to trigger follow-up observations. Follow-up photometry with the IO:O optical imager on the Liverpool Telescope established a rapid fade rate of ??? as well as red colors (g-r=???).
+
+We did not identify any GRBs coincident with this position during the time window between the last non-detection and the first detection.
+
+The rapid evolution, red color, and lack of host counterpart make ZTF25aciwbsc a strong candidate afterglow. We encourage follow-up observations, particularly spectroscopy to measure the redshift.
+
+ZTF is supported by the National Science Foundation under Grant No. AST-2034437 and a collaboration including Caltech, IPAC, the Weizmann Institute for Science, the Oskar Klein Center at Stockholm University, the University of Maryland, Deutsches Elektronen-Synchrotron and Humboldt University, the TANGO Consortium of Taiwan, the University of Wisconsin at Milwaukee, Trinity College Dublin, Lawrence Livermore National Laboratories, and IN2P3, France. Operations are conducted by COO, IPAC, and UW.
